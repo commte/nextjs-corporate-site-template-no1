@@ -1,1 +1,1 @@
-# nextjs-corporate-site-template-no1
+App Router のテンプレート
